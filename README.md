@@ -35,28 +35,26 @@ By working through this project, you will learn how to:
   
 ---
 
-### 📁 Project Structure
-workspace/
-├── example/
-│   └── hello/
-│       ├── go.mod
-│       ├── hello.go
-│       └── reverse/
-│           ├── reverse.go
-│           ├── reverse_test.go
-│           └── int.go
-│
-├── hello/
-│   ├── go.mod
-│   ├── go.sum
-│   └── hello.go
-│
-├── go.work
-├── go.mod
-├── go.sum
-├── LICENSE
-├── PATENTS
-└── README.md
+## 📁 Project Structure
+
+- workspace/
+  - example/
+    - hello/
+      - go.mod
+      - hello.go
+      - reverse/
+        - reverse.go
+        - reverse_test.go
+        - int.go
+  - hello/
+    - go.mod
+    - go.sum
+    - hello.go
+  - go.work
+  - go.mod
+  - go.sum
+  - LICENSE
+  - PATENTS
 
 ---
 
